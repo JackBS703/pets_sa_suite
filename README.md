@@ -19,7 +19,7 @@ Suite de pruebas automatizadas para el sistema PETS S.A., desarrollada con Robot
 ---
 
 ## Estructura del Proyecto
-
+```text
 pets_sa_suite/
 ├── results/ # Resultados de ejecución (ignorado por git)
 ├── tests/
@@ -32,7 +32,7 @@ pets_sa_suite/
 │ └── common.resource
 ├── Dataset-Escenarios-PETS-SA.xlsx
 └── README.md
-
+```
 ---
 
 ## Escenarios Automatizados
