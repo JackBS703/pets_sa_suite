@@ -1,0 +1,5 @@
+# Ignorar todos los resultados de ejecución
+*
+
+# Pero mantener este archivo y la carpeta en git
+!.gitignore
